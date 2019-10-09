@@ -1,5 +1,3 @@
-# LeetCode in python 
-
 |题目|
 |-|
 |[1.两数之和](https://www.jianshu.com/p/d922aa13637c)|
@@ -69,7 +67,6 @@
 |[80.删除排序数组中的重复项 II](https://www.jianshu.com/p/6f5812c05889)|
 |[81.搜索旋转排序数组 II](https://www.jianshu.com/p/c0c70702b767)|
 |[82.删除排序链表中的重复元素 II](https://www.jianshu.com/p/31dbf029a0cc)|
-|[83.删除排序链表中的重复元素](https://www.jianshu.com/p/49c51ea22bdb)|
 |[84.柱状图中最大的矩形](https://www.jianshu.com/p/6f48a96b8d5a)|
 |[85.最大矩形](https://www.jianshu.com/p/67cd5ba8802c)|
 |[86.分隔链表](https://www.jianshu.com/p/5870049789a0)|
@@ -81,36 +78,21 @@
 |[96.不同的二叉搜索树](https://www.jianshu.com/p/d86700f0fb78)|
 |[98.验证二叉搜索树](https://www.jianshu.com/p/198a20feab2e)|
 |[100.相同的树](https://www.jianshu.com/p/48c8b05c8fa1)|
-|[101.对称二叉树](https://www.jianshu.com/p/7f83c9f8b865)|
-|[102.二叉树的层次遍历](https://www.jianshu.com/p/74b17cb8d0bd)|
 |[103.二叉树的锯齿形层次遍历](https://www.jianshu.com/p/53cb9757fc85)|
-|[104.二叉树的最大深度](https://www.jianshu.com/p/f6becaba832d)|
-|[107.二叉树的层次遍历 II](https://www.jianshu.com/p/29f717bbcce4)|
-|[112.路径总和](https://www.jianshu.com/p/6f15488d42aa)|
-|[113.路径总和 II](https://www.jianshu.com/p/d6dd05f7c6c4)|
-|[118.杨辉三角](https://www.jianshu.com/p/6adb78f48c38)|
-|[119.杨辉三角 II](https://www.jianshu.com/p/049ffb6dd9a6)|
 |[121.买卖股票的最佳时机](https://www.jianshu.com/p/dba84cbc9f4f)|
 |[122.买卖股票的最佳时机 II](https://www.jianshu.com/p/98403cf3bbc4)|
-|[125.验证回文串](https://www.jianshu.com/p/d74ff8e75687)|
-|[128.最长连续序列](https://www.jianshu.com/p/08adcc2e8aaa)|
 |[129.求根到叶子节点数字之和](https://www.jianshu.com/p/1b2da2b54f7c)|
 |[130.被围绕的区域](https://www.jianshu.com/p/57fe538a210f)|
 |[131.分割回文串](https://www.jianshu.com/p/ac74819c14e7)|
 |[134.加油站](https://www.jianshu.com/p/60878bbf2c36)|
-|[135.分发糖果](https://www.jianshu.com/p/a1ac709758ab)|
 |[136.只出现一次的数字](https://www.jianshu.com/p/f3c2a20da915)|
 |[137.只出现一次的数字 II](https://www.jianshu.com/p/6ef84efec487)|
 |[139.单词拆分](https://www.jianshu.com/p/471f11ef9368)|
-|[140.单词拆分 II](https://www.jianshu.com/p/e36eaa9b91b2)|
 |[141.环形链表](https://www.jianshu.com/p/1fada0732034)|
 |[142.环形链表 II](https://www.jianshu.com/p/b9e67aae6d7e)|
 |[143.重排链表](https://www.jianshu.com/p/0025ef59ee07)|
-|[144.二叉树的前序遍历](https://www.jianshu.com/p/04fdaa7f15fe)|
-|[145.二叉树的后序遍历](https://www.jianshu.com/p/b83dd7571416)|
 |[146.LRU缓存机制](https://www.jianshu.com/p/77d14cf02196)|
 |[147.对链表进行插入排序](https://www.jianshu.com/p/b1e56e2af390)|
-|[148.排序链表](https://www.jianshu.com/p/fa17c59ebab0)|
 |[150.逆波兰表达式求值](https://www.jianshu.com/p/6e15345d4758)|
 |[151.翻转字符串里的单词](https://www.jianshu.com/p/d9db6fcf3367)|
 |[152.乘积最大子序列](https://www.jianshu.com/p/95aea622f481)|
@@ -120,14 +102,12 @@
 |[164.最大间距](https://www.jianshu.com/p/dbb8056344ea)|
 |[169.求众数](https://www.jianshu.com/p/6091d6e28471)|
 |[171.位1的个数](https://www.jianshu.com/p/891fcad3dee2)|
-|[172.阶乘后的零](https://www.jianshu.com/p/2a1415790a58)|
 |[174.地下城游戏](https://www.jianshu.com/p/bc5f6951ce02)|
 |[179.最大数](https://www.jianshu.com/p/2f94677d8117)|
 |[189.旋转数组](https://www.jianshu.com/p/9ac6f21eb671)|
 |[190.颠倒二进制位](https://www.jianshu.com/p/dbd58e52906b)|
 |[198.打家劫舍](https://www.jianshu.com/p/308ae8b9ab6b)|
 |[199.二叉树的右视图](https://www.jianshu.com/p/f32b669a4dd4)|
-|[200.岛屿数量](https://www.jianshu.com/p/248896a06498)|
 |[201.数字范围按位与](https://www.jianshu.com/p/e8bff9bd4e65)|
 |[203.移除链表元素](https://www.jianshu.com/p/46c9c84310bd)|
 |[204.计数质数](https://www.jianshu.com/p/c252d98448cc)|
@@ -150,30 +130,21 @@
 |[240.搜索二维矩阵 II](https://www.jianshu.com/p/7c20238ee0cd)|
 |[241.为运算表达式设计优先级](https://www.jianshu.com/p/0abc98c2db64)|
 |[243.最短单词距离](https://www.jianshu.com/p/1377d73b0904)|
-|[257.二叉树的所有路径](https://www.jianshu.com/p/2964fbb9955c)|
 |[263.丑数](https://www.jianshu.com/p/bc30b640c9c4)|
 |[264.丑数 II](https://www.jianshu.com/p/f5d01459e5be)|
 |[268.缺失数字](https://www.jianshu.com/p/3dd5fa2996a6)|
 |[278.第一个错误的版本](https://www.jianshu.com/p/8eadd69ef342)|
-|[283.移动零](https://www.jianshu.com/p/ca2f9c6f185b)|
 |[287.寻找重复数](https://www.jianshu.com/p/a289b733e174)|
-|[290.单词规律](https://www.jianshu.com/p/45c533b0a120)|
 |[292.Nim 游戏](https://www.jianshu.com/p/11fc81e45341)|
 |[299.猜数字游戏](https://www.jianshu.com/p/9b31c3a63071)|
 |[300.最长上升子序列](https://www.jianshu.com/p/ab33e7a43fa5)|
-|[303.区域和检索-数组不可变](https://www.jianshu.com/p/65441fae2c3c)|
 |[312.戳气球](https://www.jianshu.com/p/ba0d6e431baa)|
-|[316.去除重复字母](https://www.jianshu.com/p/e31aed2b4dc5)|
 |[319.灯泡开关](https://www.jianshu.com/p/e4c5d3f5ee80)|
-|[322.零钱兑换](https://www.jianshu.com/p/9a06b438f341)|
-|[326.3的幂](https://www.jianshu.com/p/ed86cad472f0)|
 |[328.奇偶链表](https://www.jianshu.com/p/543a966704f2)|
 |[334.递增的三元子序列](https://www.jianshu.com/p/70b741669373)|
 |[338.比特位计数](https://www.jianshu.com/p/21785e811e62)|
 |[343.整数拆分](https://www.jianshu.com/p/199a3c4f3f59)|
 |[344.反转字符串](https://www.jianshu.com/p/eb95bd76090f)|
-|[345.反转字符串中的元音字母](https://www.jianshu.com/p/b63cc8d950fd)|
-|[347.前 K 个高频元素](https://www.jianshu.com/p/e6774156e902)|
 |[349.两个数组的交集](https://www.jianshu.com/p/2edeaa136eaa)|
 |[350.两个数组的交集 II](https://www.jianshu.com/p/f20bc1331387)|
 |[376.摆动序列](https://www.jianshu.com/p/cad9d67c0002)|
@@ -212,15 +183,11 @@
 |[704.二分查找](https://www.jianshu.com/p/af8db4b6ad47)|
 |[733.图像渲染](https://www.jianshu.com/p/32baa97f7c6b)|
 |[735.行星碰撞](https://www.jianshu.com/p/e0d14e85b302)|
-|[739.每日温度](https://www.jianshu.com/p/f2690823ca7d)|
 |[747.至少是其他数字两倍的最大数](https://www.jianshu.com/p/9bbf7f3d2bd6)|
-|[753.破解保险箱](https://www.jianshu.com/p/6f51c036cb0e)|
 |[765.情侣牵手](https://www.jianshu.com/p/f4d7dbcb1db3)|
 |[767.重构字符串](https://www.jianshu.com/p/83e4902f1160)|
-|[787.K 站中转内最便宜的航班](https://www.jianshu.com/p/664206735378)|
 |[796.旋转字符串](https://www.jianshu.com/p/eea3d625e921)|
 |[797.所有可能的路径](https://www.jianshu.com/p/15fd4fd1af9c)|
-|[815.公交路线](https://www.jianshu.com/p/63d118245236)|
 |[821.字符的最短距离](https://www.jianshu.com/p/3ac2c261319c)|
 |[830.较大分组的位置](https://www.jianshu.com/p/9baa918e7768)|
 |[832.翻转图像](https://www.jianshu.com/p/e0df1bb605da)|
@@ -243,7 +210,6 @@
 |[931.下降路径最小和](https://www.jianshu.com/p/3eb3f63f7136)|
 |[932.漂亮数组](https://www.jianshu.com/p/2f0e19682b39)|
 |[933.最近的请求次数](https://www.jianshu.com/p/175818fe2b07)|
-|[934.最短的桥](https://www.jianshu.com/p/dc6780705433)|
 |[956.最高广告牌](https://www.jianshu.com/p/fffe353d45c7)|
 |[967.连续差相同的数字](https://www.jianshu.com/p/c1b32934f6e6)|
 |[972.最接近原点的K个点](https://www.jianshu.com/p/dea53ac8cd8b)|
@@ -279,4 +245,3 @@
 |[1122.数组的相对排序](https://www.jianshu.com/p/7bd1df30547e)|
 |[1154.一年中的第几天](https://www.jianshu.com/p/651e89d8d587)|
 |[1162.地图分析](https://www.jianshu.com/p/ea5c190f412f)|
-
